@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+table tr td{ width: 100px;
+            height: 100px;
+            background-color: coral;
+        
+}
+.bloc{ 
+    margin-left: 37%;
+    margin-right: 37%;
+}
+table tr td:hover{ 
+      background-color: cornflowerblue;
+      cursor: pointer;
+}
+h1{text-align: center;}
+p{ font-size: 1.5rem;}
+p:first-of-type{color: cornflowerblue;}
